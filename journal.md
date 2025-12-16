@@ -14,3 +14,6 @@ Syntax      | Description |
 
 # November 10, 2025 
 yes becuase i get to eat thanksgiving food 
+# December 1, 2025
+A Drone Programmer develops the code for autonomous flight, navigation (like pathfinding with Python/C++), and task execution, requiring a Computer Science degree or related field, certifications like the Part 107 license for commercial ops, and salaries often range from $70k-$100k+ in the US, making it a tech-heavy, growing career, especially with the rise of local drone services like those emerging in San Antonio. 
+# December 8, 2025
