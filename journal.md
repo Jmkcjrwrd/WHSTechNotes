@@ -20,3 +20,5 @@ A Drone Programmer develops the code for autonomous flight, navigation (like pat
 Self-driving cars struggle with school buses due to complex, dynamic human cues and sensor confusion (shadows, bus shape) vs. just a red light
  # December 15, 2025
  im travleinging to longview to see family for christmas.
+# January 6, 2026
+i used technolgy this break by using my computer to play games and my tv to watch hulu and my ps5 to play a variety of games this break i used my phone tablet computer ps5 and tv it was a fun break 
